@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 105%;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    background-color:rgb(11, 240, 145);
+    height: 15vh;
+}
+li{
+    list-style-type: none;
+}
+nav{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.text{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+     color: aliceblue;
+    width: 45%;
+}
+button.btn
+{
+    border: none;
+    color: aliceblue;
+    background-color: rgb(11, 240, 145);
+}
+button.box
+{
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    padding: 12px 15px;
+    border-radius: 5%;
+}
+
+
+
+
+
